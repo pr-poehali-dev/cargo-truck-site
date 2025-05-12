@@ -1,7 +1,6 @@
 
 import { ReactNode } from 'react';
 import Icon from '@/components/ui/icon';
-import { LucideIcon } from 'lucide-react';
 
 interface FeatureCardProps {
   icon: string;

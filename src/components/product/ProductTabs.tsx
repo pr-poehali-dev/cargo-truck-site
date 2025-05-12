@@ -6,6 +6,7 @@ import {
   TabsTrigger 
 } from "@/components/ui/tabs";
 import { TruckType } from '@/types/truck';
+import Icon from '@/components/ui/icon';
 
 interface ProductTabsProps {
   product: TruckType;
